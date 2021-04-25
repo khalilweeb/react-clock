@@ -1,6 +1,6 @@
 # Simple clock with reactjs
 
-# to reun the project download files and execute :
+# to run the project download files and execute :
       ### npm install
       ### npm start
       
